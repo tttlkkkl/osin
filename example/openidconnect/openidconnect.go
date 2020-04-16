@@ -14,8 +14,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/RangelReale/osin"
-	"github.com/RangelReale/osin/example"
+	"github.com/tttlkkkl/osin"
+	"github.com/tttlkkkl/osin/example"
 
 	"gopkg.in/square/go-jose.v1"
 )
